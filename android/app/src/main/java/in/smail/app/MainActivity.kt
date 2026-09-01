@@ -1,4 +1,4 @@
-package com.smailnative
+package `in`.smail.app
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
