@@ -433,6 +433,8 @@ export default Home;
 cd smailNative 
 npx react-native run-android
 
+////
+
 cd smailNative 
 cd android
 gradlew.bat clean
